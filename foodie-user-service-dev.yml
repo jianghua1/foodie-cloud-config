@@ -1,6 +1,6 @@
 # 数据库密码
 mysql:
-  url: 'jdbc:mysql://192.168.100.12:3306/foodie-shop-dev?useUnicode=true&characterEncoding=UTF-8&autoReconnect=true&useSSL=false&serverTimezone=Asia/Shanghai'
+  url: '111'
   password: '123456'
 # 功能开关
 userservice:
