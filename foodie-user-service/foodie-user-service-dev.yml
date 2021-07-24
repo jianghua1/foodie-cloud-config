@@ -1,7 +1,7 @@
 # 数据库密码
-mysql:
-  url: 'jdbc:mysql://192.168.100.12:3306/foodie-shop-dev?useUnicode=true&characterEncoding=UTF-8&autoReconnect=true&useSSL=false&serverTimezone=Asia/Shanghai'
-  password: '123456'
+mariadb:
+  url: 'jdbc:mysql://192.168.0.20:3306/foodie-cloud-item?useUnicode=true&characterEncoding=UTF-8&autoReconnect=true&useSSL=false&serverTimezone=Asia/Shanghai'
+  password: 'jianghua1'
 # 功能开关
 userservice:
   registration:
