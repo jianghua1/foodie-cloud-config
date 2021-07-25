@@ -5,5 +5,5 @@ mariadb:
 # 功能开关
 userservice:
   registration:
-    disabled: true
+    disabled: false
 # 暴露监控端点
